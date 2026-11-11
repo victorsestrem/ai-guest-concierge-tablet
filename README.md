@@ -1,4 +1,4 @@
-# AI Guest Concierge on a Tablet — Case Study
+# AI Guest Concierge on a Tablet: Case Study
 
 > An AI assistant on an iPad in the bridal suite of an event venue's guest house (**Vale Verde Festas**): it greets the couple by name, answers questions, shows the stay details, controls the room and calls the concierge.
 > **Status: in development.** **Source code is private.** This repository documents the project; a walkthrough is available on request.
